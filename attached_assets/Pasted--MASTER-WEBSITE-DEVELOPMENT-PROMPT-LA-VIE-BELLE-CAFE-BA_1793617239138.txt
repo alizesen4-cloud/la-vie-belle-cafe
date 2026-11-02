@@ -1,0 +1,456 @@
+# MASTER WEBSITE DEVELOPMENT PROMPT
+## LA VIE BELLE | CAFE & BAKERY
+### Professional Business Website
+
+Act as a senior web designer, creative director, UX/UI specialist and experienced frontend developer.
+
+Build a complete, premium, production-quality business website for **La Vie Belle (LVB Cafe & Bakery)**, located in Jubail, Saudi Arabia.
+
+This is a real business website concept intended to be presented to the cafe owner as a professional website proposal.
+
+Do not create a generic cafe template. Develop a distinctive visual identity, sophisticated layout, excellent typography, thoughtful interactions and a cohesive user experience.
+
+---
+
+# 1. CRITICAL DESIGN REQUIREMENTS
+
+**NO AI-GENERATED IMAGES.**
+
+This is a strict requirement.
+
+- Do not generate images using AI.
+- Do not use AI-generated people, cafes, food, drinks or interiors.
+- Do not create artificial photographs or fabricated cafe imagery.
+- Prioritize genuine photographs supplied from the cafe's official Instagram or by the business owner.
+- Use actual cafe photographs wherever available.
+- If genuine photographs are unavailable, use tasteful, properly licensed real photography as temporary editorial imagery, without presenting it as photographs of this particular cafe.
+- Create elegant image placeholders where actual business photography is required but unavailable.
+- Make replacing images straightforward through a centralized assets folder.
+
+Never fabricate the cafe's products, menu, prices, awards, history or customer testimonials.
+
+# 2. BRAND IDENTITY AND CREATIVE DIRECTION
+
+Business name: La Vie Belle
+
+Instagram: @lvb.cafe
+
+Business category: Cafe & Bakery
+
+Location: Jubail, Eastern Province, Saudi Arabia.
+
+Develop an elegant European-inspired cafe identity.
+
+The design should communicate:
+- European cafe culture.
+- Relaxed sophistication.
+- Warm hospitality.
+- Artisan coffee and bakery culture.
+- A welcoming atmosphere.
+- An intimate, memorable cafe experience.
+
+### Colour palette
+
+Use a sophisticated combination of:
+
+- Warm ivory: #F5F0E7
+- Deep espresso: #30251F
+- Muted sage: #87917C
+- Soft taupe: #C6B9A6
+- Charcoal: #242522
+
+Avoid overly pale, washed-out colours.
+
+Use strong contrast, restrained colour accents and generous whitespace.
+
+### Typography
+
+Use an elegant editorial serif font for major headings, paired with a clean contemporary sans-serif for body text.
+
+Suggested fonts:
+- Cormorant Garamond or Playfair Display for headings.
+- DM Sans or Manrope for body text.
+
+Typography should have a clear hierarchy and feel carefully art-directed.
+
+### Overall visual direction
+
+Create a sophisticated European editorial website with:
+- Asymmetrical layouts.
+- Large photographic compositions.
+- Beautiful typography.
+- Delicate dividers.
+- Subtle botanical or architectural details.
+- Generous spacing.
+- Refined hover interactions.
+- Elegant transitions.
+
+Avoid:
+- Generic AI website layouts.
+- Excessive rounded cards.
+- Repetitive rectangular sections.
+- Unnecessary gradients.
+- Excessive animations.
+- Emoji decorations.
+- Generic coffee cup illustrations.
+- Dashboard-like layouts.
+
+# 3. WEBSITE STRUCTURE
+
+Build a complete multi-section website with the following sections.
+
+## SECTION 01: NAVIGATION
+
+Create a refined navigation bar.
+
+Left:
+La Vie Belle wordmark.
+
+Center/right:
+- Home
+- Our Story
+- Menu
+- Gallery
+- Visit Us
+
+Additional controls:
+- English / العربية language switch.
+- Instagram icon.
+- Prominent View Menu button.
+
+Navigation should be elegant, responsive and sticky when appropriate.
+
+On mobile, create a polished functional navigation menu.
+
+## SECTION 02: HERO SECTION
+
+Create a visually striking opening experience.
+
+Use a large genuine cafe photograph as the primary visual.
+
+The composition should feel like a luxury hospitality website.
+
+Suggested copy:
+
+Eyebrow:
+A CAFE & BAKERY IN JUBAIL
+
+Main headline:
+"Life is beautiful.
+Take a moment to enjoy it."
+
+Supporting text:
+"Discover a welcoming space for thoughtfully prepared coffee, good food and moments worth slowing down for."
+
+Primary CTA:
+Explore Our Menu
+
+Secondary CTA:
+Find Our Cafe
+
+Design requirements:
+- Large editorial typography.
+- Full-width or carefully composed photographic layout.
+- Beautiful text placement.
+- Subtle image transitions.
+- Excellent text contrast.
+- Responsive composition.
+
+Do not use a fake cafe photograph.
+
+## SECTION 03: INTRODUCTION / OUR PHILOSOPHY
+
+Create an elegant editorial section introducing the cafe.
+
+Headline:
+"A little place to feel at ease."
+
+Supporting copy:
+"Good coffee, a welcoming atmosphere and a space to enjoy the little moments."
+
+Create an attractive two-column composition with a genuine cafe photograph.
+
+Do not invent the cafe's founding story, history or sourcing claims.
+
+## SECTION 04: THE EXPERIENCE
+
+This section should communicate what makes the cafe worth visiting.
+
+The publicly available business information and customer feedback mention:
+- Outdoor seating.
+- Books available for reading.
+- A beautiful atmosphere.
+- Dine-in experience.
+- Takeaway.
+- No-contact delivery.
+
+Build a beautiful experience section around these verified details.
+
+Use three editorial content blocks:
+
+01. A place to unwind.
+02. A little time with a good book.
+03. Coffee to take along.
+
+Use real photography where available.
+
+Do not claim facilities or amenities that have not been verified.
+
+## SECTION 05: MENU
+
+Create a visually rich, interactive menu section.
+
+Use these categories as the initial structure:
+
+- Coffee
+- Specialty Drinks
+- Cold Beverages
+- Bakery
+- Food & Desserts
+
+IMPORTANT:
+
+The actual menu items and prices have not yet been fully verified.
+
+Do not invent products or prices.
+
+Create a centralized editable menu data structure so verified menu items can be added easily.
+
+Until actual menu information is available, display a tasteful message:
+
+"Our menu is best explored in person. Visit us to discover what's available."
+
+Include a prominent Contact Us button.
+
+Design the menu like a premium cafe menu, not an ordinary e-commerce product grid.
+
+## SECTION 06: PHOTO GALLERY
+
+Create an elegant photographic gallery.
+
+Requirements:
+- Asymmetrical editorial image grid.
+- Different image proportions.
+- Beautiful image spacing.
+- Hover interactions.
+- Click-to-expand lightbox.
+- Responsive gallery.
+
+Use genuine photographs of the actual business when supplied.
+
+Do not substitute generated images.
+
+If images are missing, use clean image placeholders that can easily be replaced.
+
+## SECTION 07: VISIT OUR CAFE
+
+Create a prominent location section.
+
+Business:
+La Vie Belle Cafe & Bakery
+
+Address:
+7502 Al Madinah Al Mounawwarah, Jubail City Center, 3863, Al Jubail 35514, Saudi Arabia.
+
+Telephone:
++966 53 773 3332
+
+Opening hours:
+Saturday to Thursday: 7:00 AM – 10:00 PM.
+
+Friday hours: Not yet verified. Do not assume opening or closing times.
+
+Include:
+- Interactive Google Maps embed or a well-designed map link.
+- Get Directions button.
+- Clickable telephone number.
+- WhatsApp contact button.
+- Clear opening hours.
+- Location information.
+
+Google Maps directions:
+https://www.google.com/maps/search/?api=1&query=La+Vie+Belle+Cafe+Jubail+Saudi+Arabia
+
+WhatsApp:
+https://wa.me/966537733332
+
+Telephone:
+tel:+966537733332
+
+## SECTION 08: INSTAGRAM
+
+Create a beautiful Instagram section.
+
+Headline:
+"A little more of La Vie Belle."
+
+Supporting text:
+"Stay connected and discover more from our cafe."
+
+Instagram:
+https://www.instagram.com/lvb.cafe/
+
+Include a functional Visit Instagram button.
+
+Do not fabricate Instagram posts or pretend that sample photographs are published Instagram content.
+
+## SECTION 09: FOOTER
+
+Create an elegant footer with:
+
+- La Vie Belle wordmark.
+- Short brand introduction.
+- Navigation links.
+- Contact number.
+- Address.
+- Opening hours.
+- Instagram link.
+- Arabic brand name if available.
+
+Include a subtle copyright notice.
+
+Do not include invented social accounts or external business links.
+
+# 4. ARABIC AND ENGLISH SUPPORT
+
+Create a fully functional bilingual website.
+
+English should be the default language.
+
+Arabic should use proper RTL layout.
+
+Requirements:
+- Functional language switch.
+- Correct RTL alignment.
+- Arabic typography.
+- Proper navigation direction.
+- Correct spacing and layout in both languages.
+- Translate all navigation, buttons and section headings.
+
+Do not simply translate the main headings while leaving the rest of the website in English.
+
+Use a centralized translation structure.
+
+# 5. FUNCTIONALITY
+
+All interactive elements must work.
+
+Implement:
+- Responsive navigation.
+- Smooth scrolling.
+- Functional section links.
+- Working menu navigation.
+- Working Instagram link.
+- Clickable telephone number.
+- Working WhatsApp link.
+- Google Maps directions.
+- Functional gallery lightbox.
+- Language switching.
+- Mobile navigation.
+- Accessible buttons.
+- Keyboard-friendly interactions.
+
+Do not add non-functional buttons or fake checkout functionality.
+
+This is a cafe presentation website, not an online ordering platform.
+
+Do not create a shopping cart, checkout or online payment system.
+
+# 6. TECHNICAL REQUIREMENTS
+
+Use a clean, maintainable frontend architecture.
+
+Preferred stack:
+- React.
+- TypeScript.
+- Modern CSS or Tailwind CSS.
+- Lucide icons where appropriate.
+
+Requirements:
+- Reusable components.
+- Centralized business information.
+- Centralized menu data.
+- Centralized translations.
+- Organized image assets.
+- Semantic HTML.
+- Accessible navigation.
+- SEO-friendly page structure.
+- Proper page title and meta description.
+- Open Graph metadata.
+- Local business structured data using only verified information.
+- Optimized image loading.
+- Lazy loading below the fold.
+- Smooth responsive layouts.
+
+If the existing Replit project already has a working framework, inspect it first and preserve its architecture wherever practical instead of unnecessarily rebuilding everything.
+
+# 7. RESPONSIVE DESIGN
+
+The website must be designed for:
+
+- Desktop.
+- Laptop.
+- Tablet.
+- Mobile.
+
+Do not simply shrink the desktop layout.
+
+Create carefully adapted mobile compositions.
+
+Check:
+- No horizontal scrolling.
+- No overlapping text.
+- No broken images.
+- No clipped navigation.
+- No awkward heading wraps.
+- No excessively large empty spaces.
+- Buttons remain easy to tap.
+- Arabic RTL works correctly on small screens.
+
+# 8. ANIMATION AND INTERACTIONS
+
+Use subtle, premium animations:
+
+- Gentle hero image reveal.
+- Smooth section transitions.
+- Delicate text entrance animations.
+- Refined hover states.
+- Subtle image zoom.
+- Smooth navigation transitions.
+
+Avoid excessive motion.
+
+Respect reduced-motion accessibility settings.
+
+# 9. FINAL QUALITY ASSURANCE
+
+Before declaring the project complete:
+
+1. Run the website and inspect every section.
+2. Test every navigation link.
+3. Test all contact buttons.
+4. Test Google Maps directions.
+5. Test Instagram.
+6. Test English and Arabic switching.
+7. Test mobile responsiveness.
+8. Check for broken images.
+9. Check browser console errors.
+10. Check for missing content.
+11. Verify that no fictional menu items, prices or business claims have been introduced.
+12. Ensure the website looks like a professionally designed hospitality business website.
+
+Do not stop after producing a basic homepage.
+
+Complete the entire website.
+
+The final result should feel like a premium independent cafe and bakery website created by a professional digital design agency.
+
+**FINAL CREATIVE DIRECTION:**
+
+Make La Vie Belle feel distinctive, elegant, welcoming and memorable.
+
+The design should be visually impressive without sacrificing usability.
+
+Prioritize genuine business identity, real photography, refined typography, functional features and excellent responsive design.
+
+Build the complete working website now.

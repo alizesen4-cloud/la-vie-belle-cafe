@@ -1,0 +1,304 @@
+# LA VIE BELLE: INTERACTIVE WEBSITE UPGRADE
+## Existing Website Enhancement, Not a Rebuild
+
+Act as a senior frontend engineer, award-winning web designer and interaction designer.
+
+I already have an existing website for La Vie Belle Cafe & Bakery. The current design, branding, typography, colour palette and overall structure are approved as the foundation.
+
+Your task is to transform the existing website from a simple static presentation into a premium, interactive, visually engaging commercial cafe website.
+
+**IMPORTANT: DO NOT REBUILD THE WEBSITE FROM SCRATCH.**
+
+Inspect the existing project and preserve its current design identity.
+
+Do not replace the existing design with a generic template.
+
+The website should feel like a professionally developed website commissioned by a real hospitality business.
+
+# 1. PRESERVE THE EXISTING BRAND IDENTITY
+
+Keep:
+- La Vie Belle branding.
+- Existing logo and wordmark.
+- Warm ivory background.
+- Muted sage green.
+- Espresso brown and charcoal.
+- Existing elegant serif typography.
+- Existing section structure.
+- Existing English and Arabic language functionality.
+
+Improve the visual experience without destroying the current aesthetic.
+
+Avoid:
+- Generic card-heavy layouts.
+- Excessive rounded corners.
+- Random gradients.
+- Unnecessary decorative icons.
+- Cartoon illustrations.
+- AI-generated photography.
+- Excessive animation.
+
+# 2. MAKE THE WEBSITE FEEL ALIVE
+
+The current website feels too static.
+
+Add sophisticated micro-interactions throughout the website.
+
+### Navigation
+- Smooth sticky navigation.
+- Elegant hover underline animations.
+- Animated hamburger menu.
+- Smooth mobile navigation opening and closing.
+- Active navigation link indication.
+- Smooth section scrolling.
+- Subtle background transition when scrolling.
+
+### Buttons
+
+Every button must have a meaningful interaction.
+
+Implement:
+- Smooth colour transitions.
+- Subtle hover movement.
+- Animated arrow icons.
+- Underline or border transitions.
+- Press feedback when clicked.
+- Proper focus states for keyboard accessibility.
+
+Buttons should never look clickable but do nothing.
+
+### Scroll animations
+
+Add subtle reveal animations:
+- Headings fade in and move slightly upward.
+- Images reveal smoothly.
+- Text blocks appear progressively.
+- Section elements animate when entering the viewport.
+
+Use Intersection Observer or an equivalent lightweight solution.
+
+Animations must run smoothly and must not cause layout shifts.
+
+Respect reduced-motion accessibility preferences.
+
+# 3. HERO SECTION ENHANCEMENT
+
+The existing hero section currently has a flat sage background and large typography.
+
+Preserve its editorial character but make it more visually interesting.
+
+Add:
+- A carefully composed photographic area.
+- Elegant text entrance animation.
+- A subtle animated scroll indicator.
+- Interactive CTA buttons.
+- Subtle image reveal effects.
+
+Use genuine cafe photographs when available.
+
+The ambience photograph will be supplied separately later.
+
+Until then, maintain an elegant photographic placeholder without generating artificial images.
+
+Do not make the headline excessively large on mobile.
+
+# 4. MENU SECTION: MOST IMPORTANT
+
+The current menu section displays five categories:
+
+01 Coffee
+02 Specialty Drinks
+03 Cold Beverages
+04 Bakery
+05 Food & Desserts
+
+Currently, the arrow icons are not useful.
+
+MAKE EVERY CATEGORY INTERACTIVE.
+
+When a visitor clicks a category:
+
+- Expand the selected category smoothly.
+- Reveal the corresponding genuine photographs from the uploaded menu_images archive.
+- Display the photographs in an elegant image layout.
+- Allow visitors to enlarge photographs using a lightbox.
+- Animate the arrow icon when expanding and collapsing.
+- Allow users to open and close categories.
+- Make the interaction work on desktop and mobile.
+
+Use the following image assets after extracting the uploaded archive:
+
+menu_images/1.png
+menu_images/2.jpg
+menu_images/3.jpg
+menu_images/4.jpg
+menu_images/5.jpg
+menu_images/6.jpg
+menu_images/7.jpg
+menu_images/8.jpg
+menu_images/9.jpg
+menu_images/10.jpg
+menu_images/11.jpg
+menu_images/12.jpg
+
+Inspect each image visually before assigning it to a category.
+
+Suggested image grouping based on visible content:
+
+- Coffee: latte art, hot coffee and coffee cups.
+- Specialty Drinks: visually suitable specialty coffee photographs.
+- Cold Beverages: iced beverage photographs.
+- Bakery: croissants, cookies and pastries.
+- Food & Desserts: dessert photographs.
+
+Use your visual inspection to match images appropriately.
+
+Do not invent specific product names or prices.
+
+If the exact product name is unknown, display a photograph without a fabricated label.
+
+### Menu interaction design
+
+The expanded category should look like a premium cafe menu.
+
+Use:
+- Large photographic tiles.
+- Elegant category headings.
+- Editorial image proportions.
+- Smooth expansion transitions.
+- Subtle image hover effects.
+- Minimal captions.
+
+Do not turn the menu into a generic online shop.
+
+The visitor should be able to explore the cafe's offerings visually.
+
+# 5. IMAGE GALLERY ENHANCEMENT
+
+The current gallery contains geometric placeholders.
+
+Improve it using the genuine uploaded photographs where appropriate.
+
+Requirements:
+- Beautiful asymmetrical gallery grid.
+- Different image dimensions.
+- Elegant spacing.
+- Smooth hover zoom.
+- Click-to-expand lightbox.
+- Previous and next image navigation.
+- Close button.
+- Keyboard navigation using Escape and arrow keys.
+
+For ambience photographs that have not yet been supplied, retain dedicated placeholders.
+
+Do not use menu photographs as fake interior or exterior photography.
+
+# 6. EXPERIENCE SECTION
+
+The current section contains simple text and feature icons.
+
+Improve it using an editorial composition.
+
+Features to communicate:
+- Outdoor seating.
+- Books available for reading.
+- Dine-in.
+- Takeaway.
+- No-contact delivery.
+
+Use subtle icon animations, refined separators and attractive layouts.
+
+When actual cafe ambience photographs arrive, make the relevant sections ready to accommodate them.
+
+# 7. VISIT US SECTION
+
+Improve the existing location section.
+
+Make these elements interactive:
+- Directions button opens Google Maps.
+- WhatsApp button opens the cafe's WhatsApp conversation.
+- Telephone number opens the phone dialer.
+- Address can be copied.
+- Location map opens the correct Google Maps destination.
+
+Use the existing verified business details.
+
+Do not create fake map functionality.
+
+# 8. INSTAGRAM SECTION
+
+Improve the Instagram section with:
+- Elegant animated heading.
+- Interactive Instagram button.
+- Refined hover treatment.
+- Subtle photographic styling.
+
+Link:
+https://www.instagram.com/lvb.cafe/
+
+Do not fabricate Instagram posts.
+
+# 9. FOOTER
+
+Create a more polished footer.
+
+Add:
+- Refined logo presentation.
+- Animated navigation links.
+- Contact information.
+- Location.
+- Opening hours.
+- Instagram link.
+- Back-to-top button.
+
+Make the footer visually connected to the rest of the website.
+
+# 10. RESPONSIVENESS
+
+The current website must remain excellent on:
+
+- Desktop.
+- Laptop.
+- Tablet.
+- Mobile.
+
+Pay particular attention to:
+- Menu expansion on mobile.
+- Image grid rearrangement.
+- Navigation functionality.
+- Button spacing.
+- Typography scaling.
+- Arabic RTL layout.
+
+Do not allow horizontal scrolling or overlapping content.
+
+# 11. PERFORMANCE AND CODE QUALITY
+
+- Preserve the current framework.
+- Reuse existing components where possible.
+- Keep code organized.
+- Avoid unnecessary dependencies.
+- Optimize image loading.
+- Lazy-load images below the fold.
+- Prevent layout shifts.
+- Ensure animations remain smooth.
+- Fix existing console errors.
+
+# 12. FINAL QUALITY CHECK
+
+Before completing the task:
+
+1. Test every menu category arrow.
+2. Verify that each category displays relevant photographs.
+3. Test image lightboxes.
+4. Test previous and next gallery controls.
+5. Test every CTA button.
+6. Test the navigation.
+7. Test WhatsApp and Google Maps links.
+8. Test Arabic and English.
+9. Test mobile and desktop.
+10. Ensure all existing branding remains intact.
+
+The final result should feel like a premium, interactive hospitality website.
+
+**MOST IMPORTANT: Preserve the existing design. Improve its depth, functionality, interactions and photographic presentation. Do not unnecessarily redesign or replace the entire website.**

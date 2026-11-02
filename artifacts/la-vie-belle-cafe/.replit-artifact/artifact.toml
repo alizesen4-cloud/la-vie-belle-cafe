@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/la-vie-belle/"
+title = "La Vie Belle Cafe & Bakery"
+description = "A refined bilingual website for La Vie Belle Cafe & Bakery in Jubail, Saudi Arabia, featuring its verified visitor information, menu guidance, photo placeholders, and contact links."
+version = "1.0.0"
+id = "artifacts/la-vie-belle-cafe"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/la-vie-belle/" ]
+localPort = 21937
+
+[services.development]
+run = "pnpm --filter @workspace/la-vie-belle-cafe run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/la-vie-belle-cafe", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/la-vie-belle-cafe/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21937"
+BASE_PATH = "/la-vie-belle/"

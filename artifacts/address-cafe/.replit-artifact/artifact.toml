@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Address Cafe"
+description = "A welcoming business website for Address Cafe in Jubail, Saudi Arabia, helping guests explore signature drinks and desserts, find the location, and get in touch."
+version = "1.0.0"
+id = "artifacts/address-cafe"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22192
+
+[services.development]
+run = "pnpm --filter @workspace/address-cafe run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/address-cafe", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/address-cafe/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22192"
+BASE_PATH = "/"
